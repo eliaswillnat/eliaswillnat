@@ -1,3 +1,9 @@
+<style>
+a img {
+    border: none;
+}
+</style>
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/eliaswillnat/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,6 +15,7 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+
 
 Hi, I'm Elias Willnat, an FX Artist. I specialize in creating VFX using Houdini, Nuke, and Blender. With a Bachelor's and Master's degree in 3D Animation and FX from 3iS Paris, I bring a strong technical and artistic background to my work.
 
